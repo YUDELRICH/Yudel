@@ -1,4 +1,4 @@
-# Yudel
+# BT2
 README
 Họ và tên: Lê Khắc Duy
 Lớp: 23KTMT2
